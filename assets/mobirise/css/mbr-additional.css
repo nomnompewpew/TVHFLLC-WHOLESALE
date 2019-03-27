@@ -2813,6 +2813,12 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/img-4460-copy-2000x1500.jpg");
 }
+.cid-rk634LOKyv iframe[src*=google] {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  padding-bottom: 10px;
+}
 .cid-rk5TrbP7Gf .navbar {
   background: #cccccc;
   transition: none;
