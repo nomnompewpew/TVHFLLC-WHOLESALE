@@ -6001,6 +6001,10 @@ body {
 .cid-rk634LOKyv {
   background-image: url("../../../assets/images/img-4460-copy-2000x1500.jpg");
 }
+.cid-rk634LOKyv .mbr-text,
+.cid-rk634LOKyv .mbr-section-btn DIV {
+  color: #232323;
+}
 .cid-rk5TrbP7Gf .navbar {
   background: #cccccc;
   transition: none;
